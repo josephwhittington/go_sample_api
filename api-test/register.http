@@ -1,0 +1,2 @@
+POST http://localhost:3000/events/1/register
+Authorization:
